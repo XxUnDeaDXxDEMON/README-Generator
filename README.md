@@ -25,9 +25,6 @@ npm inquirer
 ## Usage
 To use this applicaiton please install: npm inquirer 
     
-### Screenshots
-![Here is a screenshot image of the application.](IMG\Screenshot (3).png)
-A screenshot image of the application.
 
 ## Built With
 
